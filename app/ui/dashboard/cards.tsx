@@ -60,6 +60,6 @@ export function Card({
       >
         {value}
       </p>
-    </div>
+    </div> 
   );
 }
